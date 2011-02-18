@@ -1,3 +1,7 @@
+### ANNOUNCEMENT 2011-02-18: Brightcove4net is now the BrightcoveOS .NET MAPI Wrapper, and has been migrated to the BrightcoveOS repository. This repository you're currently viewing is now officially retired. Please go to the new repository for the latest updates: [[https://github.com/BrightcoveOS/.NET-MAPI-Wrapper]]
+<br/><br/>
+------------
+
 Brightcove4net
 --------------
 - **Homepage**: https://github.com/Velir/Brightcove4net
